@@ -1,0 +1,1 @@
+{"Nodes":[{"IsDir":true,"Children":{"dir":1},"NChunk":0,"Size":0},{"IsDir":true,"Children":{"hello":2},"NChunk":0,"Size":0},{"IsDir":false,"Children":{},"NChunk":0,"Size":0}],"SerialCnt":3}
